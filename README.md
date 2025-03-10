@@ -37,25 +37,13 @@ This document provides an overview of the frontend pages included in the project
    - Handles payment transactions for various services.
    - Includes integration for multiple payment methods.
 
-### 9. **portfolio-details.html**
-   - Displays a user's portfolio details.
-   - Includes sections for experience, achievements, and certifications.
-
-### 10. **reports.html**
+### 9. **reports.html**
    - Page for generating and viewing reports.
    - Includes filtering and sorting options.
 
-### 11. **service-details.html**
-   - Provides details about available services.
-   - Includes descriptions, pricing, and eligibility criteria.
-
-### 12. **sponsor-change.html**
+### 10. **sponsor-change.html**
    - Allows users to apply for a sponsor change.
    - Collects necessary details and approval documents.
-
-### 13. **starter-page.html**
-   - A template starter page for new development.
-   - Can be used as a base layout for additional features.
 
 ## Notes
 - These pages are designed as a basic frontend version.
