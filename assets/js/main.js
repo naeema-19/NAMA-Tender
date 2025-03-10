@@ -193,6 +193,12 @@
     }
   });
 
+  /**alert */
+  function handleSubmit() {
+    alert("Please log in or sign up first.");
+    window.location.href = "login.html";
+}
+
   /**
    * Navmenu Scrollspy
    */
