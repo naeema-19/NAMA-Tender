@@ -2234,3 +2234,35 @@ label{
 .btn-export:hover {
   background: #c32e35;
 }
+
+
+.dashboard-card {
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  transition: transform 0.3s;
+}
+.dashboard-card:hover {
+  transform: translateY(-5px);
+}
+h3 {
+  font-size: 1.2rem;
+  margin-bottom: 15px;
+}
+.status-list, .exam-list, .payment-list, .admin-controls, .overview-list, .nedc-controls, .request-list {
+  list-style: none;
+  padding: 0;
+}
+.status-list li, .exam-list li, .payment-list li, .admin-controls li, .overview-list li, .nedc-controls li, .request-list li {
+  padding: 8px 0;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.badge {
+  font-size: 0.9rem;
+  padding: 5px 10px;
+}
